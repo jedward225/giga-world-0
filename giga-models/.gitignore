@@ -126,5 +126,3 @@ venv.bak/
 gmon.out
 **tmp**
 3rdparty
-models/
-outputs/
